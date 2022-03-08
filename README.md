@@ -17,8 +17,5 @@
 
 <h3>Challenge</h3>
 <br />
-<ul>
-  <li>폴더 내용 첨부</li>
-</ul>
-
+<img src="https://user-images.githubusercontent.com/93716368/157238159-e56905f4-a43e-429d-81f3-25ed361eedb1.gif">
 
